@@ -2,6 +2,8 @@
 
 這個程式可以從 Google Maps 上爬取特定地點的評論資訊。
 
+Strip Fork From [omkarcloud google-maps-reviews-scraper](https://github.com/omkarcloud/google-maps-reviews-scraper) 
+
 ## 安裝
 
 1. 確保您已安裝 Python 3.6 或更高版本。
